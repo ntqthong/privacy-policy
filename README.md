@@ -55,7 +55,7 @@ I may update this privacy policy from time to time. Updates will be posted in th
 
 ### 10. Contact
 For privacy-related questions or requests, contact:
-- **Email:** your-email@example.com
+- **GitHub Issues:** https://github.com/ntqthong/privacy-policy/issues
 
 ---
 
